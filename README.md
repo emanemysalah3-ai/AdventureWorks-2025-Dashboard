@@ -23,5 +23,4 @@ Power BI, DAX, Power Query
 ## Files
 - `AdventureWorks2025.pbix` : Power BI file
 - `images/` : dashboard screenshots
-<img width="668" height="537" alt="image" src="https://github.com/user-attachments/assets/05581db0-d6d6-4aa2-af8b-2bee282e203a" />
 # AdventureWorks-2025-Dashboard
