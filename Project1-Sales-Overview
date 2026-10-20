@@ -1,0 +1,21 @@
+# Project 1: AdventureWorks 2025 Sales Overview
+
+Power BI dashboard analyzing sales performance for AdventureWorks.
+
+## Preview
+
+
+## Key Metrics
+- Total Orders: 1,465
+- Total Due: 33.93M
+- Order Quantity: 86K
+- Subtotal: 3M
+
+## Insights
+- Orders peaked in 2013 (708 orders)
+- Bikes are the top product category (1.19K orders)
+- Canada has the highest number of orders (448)
+
+## Files
+- `Adventureworks2025.pdf`: dashboard report
+- Power BI file: available in the Releases section
